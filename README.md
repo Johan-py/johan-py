@@ -22,7 +22,7 @@ A developer focused on technology and programming. Currently specializing in web
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=johan-py&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/johan-py">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johan-py-py&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johan-py&layout=compact&theme=radical" />
 </a>
 
 ## 📫 How to reach me
