@@ -1,52 +1,38 @@
-# Hello! 👋 I'm Johan
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=johan-py)
-![GitHub Followers](https://img.shields.io/github/followers/johan-py?label=Followers&style=social)
-![GitHub Stars](https://img.shields.io/github/stars/johan-py?label=Stars&style=social)
-
-A developer focused on technology and programming. Currently specializing in web. I love contributing to open-source projects and learning new technologies 💚.
-
-## 🚀 Technologies & Tools
-
-- **Languages**: ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-- **Frontend**: ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
-- **Backend**: ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
-- **Databases**: ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
-- **DevOps**: ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=github-actions)
-- **Tools**: ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code) ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter) ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
-
-
-## 📈 GitHub Stats
-
-<a href="https://github.com/johan-py">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=johan-py&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/johan-py">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johan-py&layout=compact&theme=radical" />
-</a>
-
-## 📫 How to reach me
-
-- **Email**: [johanenvdev@gmail.com](mailto:johanenvdev@gmail.com)
-- **LinkedIn**: [https://www.linkedin.com/in/johan-beltran-backend-dev/](https://www.linkedin.com/in/johan-beltran-backend-dev/)
-- **X**: [https://x.com/belotran](https://x.com/belotran)
-
-## 🌱 Currently Learning
-
-[Course/technology/language]
-
-## 📚 Featured Projects
-
-### [Project 1](https://github.com/your_username/project1)
-Brief description of the project.
-
-### [Project 2](https://github.com/your_username/project2)
-Brief description of the project.
-
-## 💬 Let's Connect
-
-I love meeting new people in the tech field. Feel free to send me a message if you want to discuss technology, projects, or anything interesting.
-
 ---
 
-⭐️ From [https://github.com/Johan-py](https://github.com/johan-py)
+# 👋 Hi, I'm Johan
+
+## 🚀 About Me
+I'm a developer with a strong background in mobile aplication and APIs desing. My expertise lies in software development, machine learning, and innovative design applications. I am particularly passionate about **Android Development** and **web work**.
+
+### **🔹 AI-Powered Design Application**
+- **Technologies:** Jetpack Compose, Flutter, AI Model Integration  
+- **Features:** Converts sketches into renders, suggests furniture placement, and offers decor ideas.
+
+## 🛠️ Technical Skills
+- **Languages:** Java, Dart, Javascpript/Typescript, Python, rust.    
+- **Frameworks & Tools:** Sprint boot, django, Flask, Flutter, express.  
+- **Machine Learning:** Experience with LLMs, NLP
+
+## 🎯 Experience
+- **Teaching Assistant:**
+  - **IoT Course:** Designed simulation-based assignments to mirror real-world IoT scenarios.
+
+## 🌱 Currently Learning
+- Advanced techniques in **Android Development** and **AI work**
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johan-beltran-backend-dev) 
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Johan-py&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Johan-py&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Johan-py&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=srvn-nm&icon=0&color=0)](https://visitcount.itsvg.in)
+
+_This README is a snapshot of my professional journey and ongoing projects. Feel free to connect and collaborate!_
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
