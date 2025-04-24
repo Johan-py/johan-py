@@ -1,8 +1,8 @@
 # Hello! 👋 I'm Johan
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Johan-py)
-![GitHub Followers](https://img.shields.io/github/followers/Johan-py?label=Followers&style=social)
-![GitHub Stars](https://img.shields.io/github/stars/Johan-py?label=Stars&style=social)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=johan-py)
+![GitHub Followers](https://img.shields.io/github/followers/johan-py?label=Followers&style=social)
+![GitHub Stars](https://img.shields.io/github/stars/johan-py?label=Stars&style=social)
 
 A developer focused on technology and programming. Currently specializing in web. I love contributing to open-source projects and learning new technologies 💚.
 
@@ -18,11 +18,11 @@ A developer focused on technology and programming. Currently specializing in web
 
 ## 📈 GitHub Stats
 
-<a href="https://github.com/Johan-py">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Johan-py&show_icons=true&theme=radical" />
+<a href="https://github.com/johan-py">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=johan-py&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/Johan-py">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johan-py-py&layout=compact&theme=radical" />
+<a href="https://github.com/johan-py">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johan-py-py&layout=compact&theme=radical" />
 </a>
 
 ## 📫 How to reach me
@@ -49,4 +49,4 @@ I love meeting new people in the tech field. Feel free to send me a message if y
 
 ---
 
-⭐️ From [https://github.com/Johan-py](https://github.com/Johan-py)
+⭐️ From [https://github.com/Johan-py](https://github.com/johan-py)
