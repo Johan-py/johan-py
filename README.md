@@ -1,4 +1,7 @@
 # 👋 Hi, I'm Johan
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=dantalion-py.dantalion-py)
+![GitHub Followers](https://img.shields.io/github/followers/dantalion-py?label=Followers&style=social)
+![GitHub Stars](https://img.shields.io/github/stars/dantalion-py?label=Stars&style=social)
 
 ## 🚀 About Me
 I'm a **Software Engineer** passionate about building **high-performance applications**, with strong experience in:
