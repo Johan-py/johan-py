@@ -10,7 +10,6 @@ I'm a **Software Engineer** passionate about building **high-performance applica
 
 I specialize in **API design**, **cloud integration**, with a focus on performance, security, and clean code practices.
 
----
 
 ## 🛠️ Tech Stack
 
